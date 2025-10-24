@@ -1,0 +1,16 @@
+Image placeholder - Replace with actual store photos
+
+Recommended images:
+1. hero.jpg - Store front exterior (1920x1080px)
+2. gallery-1.jpg - Interior view (800x600px)
+3. gallery-2.jpg - Product shelves (800x600px)
+4. gallery-3.jpg - Another interior angle (800x600px)
+5. gallery-4.jpg - Products close-up (800x600px)
+
+The Google image URLs from the CSV required authentication and could not be automatically downloaded.
+
+To add images:
+1. Visit: https://www.google.com/maps/search/?api=1&query=Spätdienst&query_place_id=ChIJf4_1n_BTqEcRcZJV0LnbXyE
+2. Download the available photos
+3. Save them as hero.jpg, gallery-1.jpg, etc. in this folder
+4. Images will automatically appear on the website

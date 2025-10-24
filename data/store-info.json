@@ -1,0 +1,100 @@
+{
+  "name": "Spätdienst",
+  "type": "Gemischtwarenladen",
+  "description": "Ihr vertrauensvoller Gemischtwarenladen im Herzen Berlins. Qualität, Service und Vielfalt seit Jahren.",
+  "address": {
+    "street": "Berliner Str. 15",
+    "city": "Berlin",
+    "postalCode": "13189",
+    "country": "Deutschland",
+    "district": "Pankow"
+  },
+  "contact": {
+    "phone": "Berliner Str. 15",
+    "email": "",
+    "website": "https://f246632.github.io/008_Spaetdienst/"
+  },
+  "location": {
+    "latitude": 52.5700,
+    "longitude": 13.4050,
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Spätdienst&query_place_id=ChIJf4_1n_BTqEcRcZJV0LnbXyE"
+  },
+  "hours": {
+    "status": "Contact for current hours",
+    "note": "Bitte kontaktieren Sie uns für aktuelle Öffnungszeiten"
+  },
+  "features": [
+    {
+      "icon": "🛒",
+      "title": "Vielfältiges Sortiment",
+      "description": "Große Auswahl an Produkten für jeden Bedarf"
+    },
+    {
+      "icon": "⭐",
+      "title": "Beste Qualität",
+      "description": "Sorgfältig ausgewählte Produkte"
+    },
+    {
+      "icon": "🤝",
+      "title": "Persönlicher Service",
+      "description": "Freundliche Beratung und Hilfe"
+    },
+    {
+      "icon": "📍",
+      "title": "Zentrale Lage",
+      "description": "Gut erreichbar im Herzen Berlins"
+    }
+  ],
+  "products": [
+    {
+      "category": "Lebensmittel",
+      "icon": "🥖",
+      "items": ["Frische Backwaren", "Milchprodukte", "Konserven", "Grundnahrungsmittel"]
+    },
+    {
+      "category": "Getränke",
+      "icon": "🍷",
+      "items": ["Erfrischungsgetränke", "Säfte", "Wasser", "Alkoholische Getränke"]
+    },
+    {
+      "category": "Haushaltsartikel",
+      "icon": "🏠",
+      "items": ["Reinigungsmittel", "Papierprodukte", "Haushaltsbedarf"]
+    },
+    {
+      "category": "Hygieneartikel",
+      "icon": "🧴",
+      "items": ["Körperpflege", "Kosmetik", "Pflegeprodukte"]
+    },
+    {
+      "category": "Snacks & Süßwaren",
+      "icon": "🍫",
+      "items": ["Schokolade", "Chips", "Kekse", "Süße Leckereien"]
+    },
+    {
+      "category": "Zeitungen & Magazine",
+      "icon": "📰",
+      "items": ["Tageszeitungen", "Zeitschriften", "Lokale Publikationen"]
+    }
+  ],
+  "social": {
+    "instagram": "",
+    "facebook": "",
+    "tripadvisor": ""
+  },
+  "images": {
+    "hero": "images/source/hero.jpg",
+    "gallery": [
+      "images/source/gallery-1.jpg",
+      "images/source/gallery-2.jpg",
+      "images/source/gallery-3.jpg",
+      "images/source/gallery-4.jpg"
+    ]
+  },
+  "seo": {
+    "title": "Spätdienst - Gemischtwarenladen Berlin | Berliner Str. 15",
+    "description": "Spätdienst - Ihr vertrauensvoller Gemischtwarenladen in Berlin. Berliner Str. 15, 13189 Berlin. Qualität, Service und Vielfalt seit Jahren.",
+    "keywords": ["Spätdienst", "Berlin", "Gemischtwarenladen", "Pankow", "Einkaufen", "Convenience Store", "Berliner Straße"]
+  },
+  "updated": "2025-10-24"
+}
